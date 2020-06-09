@@ -1,0 +1,10 @@
+C:\Repos\VirtualAreaCheckinApp\VirtualAreaCheckinApp\bin\Debug\VirtualAreaCheckinApp.exe.config
+C:\Repos\VirtualAreaCheckinApp\VirtualAreaCheckinApp\bin\Debug\VirtualAreaCheckinApp.exe
+C:\Repos\VirtualAreaCheckinApp\VirtualAreaCheckinApp\bin\Debug\VirtualAreaCheckinApp.pdb
+C:\Repos\VirtualAreaCheckinApp\VirtualAreaCheckinApp\obj\Debug\VirtualAreaCheckinApp.csprojAssemblyReference.cache
+C:\Repos\VirtualAreaCheckinApp\VirtualAreaCheckinApp\obj\Debug\VirtualAreaCheckinApp.Properties.Resources.resources
+C:\Repos\VirtualAreaCheckinApp\VirtualAreaCheckinApp\obj\Debug\VirtualAreaCheckinApp.VirtualCheckIn.resources
+C:\Repos\VirtualAreaCheckinApp\VirtualAreaCheckinApp\obj\Debug\VirtualAreaCheckinApp.csproj.GenerateResource.cache
+C:\Repos\VirtualAreaCheckinApp\VirtualAreaCheckinApp\obj\Debug\VirtualAreaCheckinApp.csproj.CoreCompileInputs.cache
+C:\Repos\VirtualAreaCheckinApp\VirtualAreaCheckinApp\obj\Debug\VirtualAreaCheckinApp.exe
+C:\Repos\VirtualAreaCheckinApp\VirtualAreaCheckinApp\obj\Debug\VirtualAreaCheckinApp.pdb
